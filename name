@@ -1,0 +1,5 @@
+ho_ten = input("Nhập họ tên: ").split()  
+print("Số từ:", len(ho_ten))  
+print("Họ:", ho_ten[0])  
+print("Tên:", ho_ten[-1])  
+print("Số chữ cái:", sum(len(tu) for tu in ho_ten))
