@@ -8,3 +8,4 @@ def tong_chan(b):
     print("Tổng các số chẵn:", s)
     return
 tong_chan(a)
+z
